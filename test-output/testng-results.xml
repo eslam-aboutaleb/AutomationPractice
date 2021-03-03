@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-03T13:11:07 EET" name="Default suite" finished-at="2021-03-03T13:11:33 EET" duration-ms="26576">
+    <groups>
+    </groups>
+    <test started-at="2021-03-03T13:11:07 EET" name="Default test" finished-at="2021-03-03T13:11:33 EET" duration-ms="26576">
+      <class name="AutomationTask.Practice.checkOut">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AutomationTask.Practice.checkOut@22a637e7]" started-at="2021-03-03T13:11:07 EET" name="setup" finished-at="2021-03-03T13:11:10 EET" duration-ms="2673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="OpenURL()[pri:0, instance:AutomationTask.Practice.checkOut@22a637e7]" started-at="2021-03-03T13:11:10 EET" name="OpenURL" finished-at="2021-03-03T13:11:22 EET" duration-ms="12544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+        <test-method signature="GotoCartEmpty()[pri:1, instance:AutomationTask.Practice.checkOut@22a637e7]" started-at="2021-03-03T13:11:22 EET" name="GotoCartEmpty" finished-at="2021-03-03T13:11:23 EET" duration-ms="1286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoCartEmpty -->
+        <test-method signature="findatleastshirt()[pri:2, instance:AutomationTask.Practice.checkOut@22a637e7]" started-at="2021-03-03T13:11:23 EET" name="findatleastshirt" finished-at="2021-03-03T13:11:26 EET" duration-ms="2701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findatleastshirt -->
+        <test-method signature="ClickAddItem()[pri:3, instance:AutomationTask.Practice.checkOut@22a637e7]" started-at="2021-03-03T13:11:26 EET" name="ClickAddItem" finished-at="2021-03-03T13:11:26 EET" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAddItem -->
+        <test-method signature="GotoShopCart()[pri:4, instance:AutomationTask.Practice.checkOut@22a637e7]" started-at="2021-03-03T13:11:26 EET" name="GotoShopCart" finished-at="2021-03-03T13:11:33 EET" duration-ms="7079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoShopCart -->
+      </class> <!-- AutomationTask.Practice.checkOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
